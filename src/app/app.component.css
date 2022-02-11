@@ -1,0 +1,12 @@
+.timerMainDiv {
+    margin-top: 10%;
+    text-align: center;
+}
+
+button:first-child {
+    margin-right: 100px;
+}
+
+button {
+    background-color: aqua;
+}
