@@ -18,7 +18,7 @@ export class AppComponent {
       }
       else
       this.time = this.time - 1;
-    },100);
+    },1000);
   }
 
   pauseTimer() {
